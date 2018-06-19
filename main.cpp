@@ -1,11 +1,4 @@
-//
-//
-//a8_1.cpp
-//Daniel Godfrey
-//Prof. David Harden
-//CCSF _ CS110B
-//October 12,2016
-//
+
 //This program sorts through the scores of any number of people and display the results in
 //order of greatest to smallest. The user is prompted to input the name of
 //the participant and their score. Once all scores have been collected the
